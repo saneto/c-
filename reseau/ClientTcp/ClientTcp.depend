@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1418908389 source:c:\users\eleve\documents\zair\clienttcp\main.cpp
+	<iostream>
+	"ClientTcp.h"
+
+1418908444 c:\users\eleve\documents\zair\clienttcp\clienttcp.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1418908596 source:c:\users\eleve\documents\zair\clienttcp\clienttcp.cpp
+	"ClientTcp.h"
+	<stdio.h>
+	<iostream>
+
+1418908598 source:c:\users\eleve\desktop\zair\clienttcp\clienttcp.cpp
+	"ClientTcp.h"
+	<stdio.h>
+	<iostream>
+
+1418908446 c:\users\eleve\desktop\zair\clienttcp\clienttcp.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1418908390 source:c:\users\eleve\desktop\zair\clienttcp\main.cpp
+	<iostream>
+	"ClientTcp.h"
+
+1418908390 source:c:\users\aymane\desktop\nouveau dossier\zair\clienttcp\main.cpp
+	<iostream>
+	"ClientTcp.h"
+
+1418908446 c:\users\aymane\desktop\nouveau dossier\zair\clienttcp\clienttcp.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1432551457 source:c:\users\aymane\desktop\nouveau dossier\zair\clienttcp\clienttcp.cpp
+	"ClientTcp.h"
+	<stdio.h>
+	<iostream>
+

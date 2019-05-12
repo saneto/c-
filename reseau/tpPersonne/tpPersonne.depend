@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1410433239 source:/home/eleve/test/tpPersonne/main.cpp
+	<iostream>
+	"Personne.h"
+	<string.h>
+	<iomanip>
+
+1410429471 /home/eleve/test/tpPersonne/Personne.h
+
+1410429471 source:/home/eleve/test/tpPersonne/Personne.cpp
+	<iostream>
+	"Personne.h"
+	<string.h>
+

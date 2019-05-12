@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="fonction.c" open="1" top="0" tabpos="4">
+		<Cursor position="4736" topLine="164" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="2">
+		<Cursor position="1675" topLine="31" />
+	</File>
+	<File name="voiture.h" open="0" top="0" tabpos="1">
+		<Cursor position="399" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

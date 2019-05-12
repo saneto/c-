@@ -1,0 +1,32 @@
+/************************************************************************
+* Nom : TP Algorithmique										*
+* Description : 											*
+*													*
+* Auteur : ZAIR	 AYMANE											*
+* Date : 18/09/2013											*
+************************************************************************/
+
+#include <iostream>		
+				/* on inclut le fichier <iostream> qui contient les declarations 
+				necessaires à l'utilisation des entrées sorties standard */
+using namespace std;	// on utilise les symboles definis dans l'espace de noms std
+
+int main()
+{	
+	int N;
+		
+	do
+	{
+		cout<<"entré votre nombre";
+		cin>>N;
+		if(N!=0,1,2,3)
+		{
+			cout<<"votre réponse ne convient pas";
+		}
+	}while(N!=0,1,2,3)
+	
+	cout<<"La réponse convient";
+	cout<<endl;
+	
+	return 0;
+}

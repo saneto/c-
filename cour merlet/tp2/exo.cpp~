@@ -1,0 +1,23 @@
+/************************************************************************
+* Nom : TP Algorithmique										*
+* Description : 											*
+*													*
+* Auteur : ZAIR	 AYMANE											*
+* Date : 18/09/2013											*
+************************************************************************/
+
+#include <iostream>		
+				/* on inclut le fichier <iostream> qui contient les declarations 
+				necessaires à l'utilisation des entrées sorties standard */
+using namespace std;	// on utilise les symboles definis dans l'espace de noms std
+
+int main()
+{	// Début de la fonction main()
+
+	// Declaration des variables locales de la fonction main()
+	int i, somme, nbre;
+	i=
+	
+
+	return 0;	// fin de la fonction main()
+}

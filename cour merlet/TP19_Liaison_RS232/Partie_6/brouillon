@@ -1,0 +1,63 @@
+void setVitesse(speed_t vit)
+{
+    unsigned int vitPossible[31] =
+        {0, 50, 75, 110, 134, 150, 200, 300, 600, 1200, 1800, 2400, 4800,
+         9600, 19200, 38400, 57600, 115200, 230400, 460800, 500000, 576000, 
+         921600, 1000000, 1152000, 1500000, 2000000, 2500000, 3000000,
+         3500000, 4000000};
+    int i;
+    bool ok = false;
+    
+    for (i=0; i<31; i++) 
+        if(vitesse == vitPossible[i]) 
+            ok = true;
+    
+    
+    
+    
+    if(ok)
+    {
+        m_vitesse = vitesse;
+        if(er) res = cfsetospeed(&termiosM, vit);
+        else res = cfsetispeed(&termiosM, vit);
+    }
+}
+
+
+
+
+
+
+
+
+        unsigned int m_vitesse;   //vitesse en bauds
+        unsigned int m_min;       //paramètre MIN
+        unsigned int m_time;      //paramètre TIME
+        bool m_ER;             //0: Emetteur 1: Recepteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+AZER TRY ERRT
+1234566 
+dd587922121sqsdsdsd dsddd aazz rrtt aaazz ddd sqs fffffddd 
+Les prototypes des fonctions devront être soigneusement 
+justifiés et seront regroupés dans
+un fichier d’entête. Les définitions des fonctions seront
+ placés dans un fichier source, et celle
+de la fonction main() dans un autre fichier source.

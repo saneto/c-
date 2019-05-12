@@ -1,0 +1,8 @@
+Nom = stiv , Age = 6 , Poids = 1.70 , Taille = 21.00 , IMC = 0.00 
+
+Nom = zair , Age = 15 , Poids = 1.80 , Taille = 95.00 , IMC = 0.00 
+
+Nom = ayemand , Age = 25 , Poids = 1.90 , Taille = 600.00 , IMC = 0.00 
+
+Nom = pop , Age = 10 , Poids = 1.00 , Taille = 20.00 , IMC = 0.00 
+

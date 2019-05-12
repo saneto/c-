@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1418905403 source:c:\users\eleve\documents\zair\serv\main.cpp
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1432465525 source:c:\users\aymane\desktop\nouveau dossier\zair\serv\main.cpp
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+

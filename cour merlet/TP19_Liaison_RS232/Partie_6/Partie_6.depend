@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1399473898 source:/home/ponelle/TP19_Liaison_RS232/Partie_6/main.cpp
+	"CComRS232.h"
+
+1399473316 source:/home/ponelle/TP19_Liaison_RS232/Partie_6/CComRS232.cpp
+	"CComRS232.h"
+
+1399473446 /home/ponelle/TP19_Liaison_RS232/Partie_6/CComRS232.h
+	<unistd.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+

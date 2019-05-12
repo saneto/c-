@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385565696 source:/home/zair/Documents/TP9_ChaineCaracteres/exercice1bis/main.cpp
+	<iostream>
+	<string.h>
+

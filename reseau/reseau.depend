@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418309885 source:/home/eleve/Documents/reseau/main.cpp
+	<iostream>
+	<stdlib.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+

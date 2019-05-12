@@ -1,0 +1,28 @@
+Nom = aze , Age = 1 , Poids = 1.00 , Taille = 95.00 , IMC = 0.0001 prenom = az mail = az photo = az 
+
+Nom = az , Age = 0 , Poids = 1.00 , Taille = 95.00 , IMC = 0.0001 prenom = az mail = az photo = az 
+
+Nom = zae , Age = 15 , Poids = 95.00 , Taille = 63.00 , IMC = 0.0239 prenom = 15 mail = 12 photo = 35 
+
+Nom = zae , Age = 15 , Poids = 95.00 , Taille = 63.00 , IMC = 0.0239 prenom = 15 mail = 12 photo = 35 
+
+Nom = zae , Age = 15 , Poids = 95.00 , Taille = 63.00 , IMC = 0.0239 prenom = 15 mail = 12 photo = 35 
+
+Nom = zae , Age = 15 , Poids = 95.00 , Taille = 63.00 , IMC = 0.0239 prenom = 15 mail = 12 photo = 35 
+
+Nom = aze , Age = 25 , Poids = 6.00 , Taille = 3.00 , IMC = 0.6667 prenom = 1 mail = ea photo = 5 
+
+Nom = az , Age = 15 , Poids = 1.00 , Taille = 5.00 , IMC = 0.0400 prenom = 5 mail = 5 photo = 5 
+
+Nom = az , Age = 1 , Poids = 1.00 , Taille = 1.00 , IMC = 1.0000 prenom = 1 mail = 1 photo = 1 
+
+Nom = az , Age = 1 , Poids = 1.00 , Taille = 1.00 , IMC = 1.0000 prenom = 1 mail = 1 photo = 1 
+
+Nom = aze , Age = 1 , Poids = 2.00 , Taille = 3.00 , IMC = 0.2222 prenom = 5 mail = 6 photo = 8 
+
+Nom = az , Age = 2 , Poids = 2.00 , Taille = 2.00 , IMC = 0.5000 prenom = 2 mail = 2 photo = 2 
+
+Nom = 2 , Age = 2 , Poids = 2.00 , Taille = 2.00 , IMC = 0.5000 prenom = 2 mail = 2 photo = 2 
+
+Nom = az , Age = 2 , Poids = 2.00 , Taille = 2.00 , IMC = 0.5000 prenom = 2 mail = 2 photo = 2 
+

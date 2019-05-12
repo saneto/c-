@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1394796601 source:/home/zair/Documents/Tp18/Exercice1/main.cpp
+	<iostream>
+	"personne.h"
+	<string.h>
+
+1394795563 /home/zair/Documents/Tp18/Exercice1/personne.h
+
+1394796601 source:/home/zair/Documents/Tp18/Exercice1/personne.cpp
+	<iostream>
+	"personne.h"
+	<string.h>
+

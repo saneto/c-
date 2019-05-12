@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1391767161 source:/home/zair/Documents/Tp14/exercic1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1390406560 source:/home/zair/Documents/Tp14/exercic1/fonction.c
+
+1390406560 source:/home/zair/Documents/Tp14/exercic1_Q3/fonction.c
+
+1391767161 source:/home/zair/Documents/Tp14/exercic1_Q3/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1391767161 source:/home/zair/Documents/Tp14/exercice1_Q3/main.c
+	<stdio.h>
+	<stdlib.h>
+

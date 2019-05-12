@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1391002944 source:/home/zair/Documents/Tp13/exercice/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"voiture.h"
+	<string.h>
+
+1391002519 source:/home/zair/Documents/Tp13/exercice/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"voiture.h"
+
+1389972728 /home/zair/Documents/Tp13/exercice/voiture.h
+

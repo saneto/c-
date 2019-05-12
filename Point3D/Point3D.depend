@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1410445170 source:/home/eleve/Documents/Classes/Point3D/main.cpp
+	<iostream>
+	"include/CPoint.h"
+
+1410433269 /home/eleve/Documents/Classes/Point3D/include/CPoint.h
+
+1410433500 source:/home/eleve/Documents/Classes/Point3D/src/CPoint.cpp
+	"../include/CPoint.h"
+
+1410448770 source:c:\users\aymane\desktop\bts iris\c++\point3d\main.cpp
+	<iostream>
+	"include/CPoint.h"
+
+1410436868 c:\users\aymane\desktop\bts iris\c++\point3d\include\cpoint.h
+
+1410437100 source:c:\users\aymane\desktop\bts iris\c++\point3d\src\cpoint.cpp
+	"../include/CPoint.h"
+

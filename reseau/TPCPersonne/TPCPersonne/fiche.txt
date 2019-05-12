@@ -1,0 +1,2 @@
+Nom = zair , Age = 15 , Poids = 195.00 , Taille = 95.00 , IMC = 0.0216 prenom = azsd mail = 1553 photo = 12 
+

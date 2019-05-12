@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1418908291 source:c:\users\eleve\documents\zair\servtcp\main.cpp
+	<iostream>
+	"Tcpserv.h"
+
+1418909836 source:c:\users\eleve\documents\zair\servtcp\tcpserv.cpp
+	"Tcpserv.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1418907729 c:\users\eleve\documents\zair\servtcp\tcpserv.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1418908292 source:c:\users\eleve\desktop\zair\servtcp\main.cpp
+	<iostream>
+	"Tcpserv.h"
+
+1418907730 c:\users\eleve\desktop\zair\servtcp\tcpserv.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1418909838 source:c:\users\eleve\desktop\zair\servtcp\tcpserv.cpp
+	"Tcpserv.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1418908292 source:c:\users\aymane\desktop\nouveau dossier\zair\servtcp\main.cpp
+	<iostream>
+	"Tcpserv.h"
+
+1418907730 c:\users\aymane\desktop\nouveau dossier\zair\servtcp\tcpserv.h
+	<iostream>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1418909838 source:c:\users\aymane\desktop\nouveau dossier\zair\servtcp\tcpserv.cpp
+	"Tcpserv.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391615219 source:/home/zair/Documents/Tp14/exercice4/main.c
+	<stdio.h>
+	<stdlib.h>
+

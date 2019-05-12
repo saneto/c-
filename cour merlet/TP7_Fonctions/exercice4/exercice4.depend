@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384509038 source:/home/zair/Documents/TP7_Fonctions/exercice4/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1394031021 source:/home/zair/Documents/tp16/exercice1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+
+1394030732 /home/zair/Documents/tp16/exercice1/personne.h
+

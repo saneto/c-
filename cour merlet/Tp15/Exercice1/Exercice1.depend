@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1392386248 source:/home/zair/Documents/Tp15/Exercice1/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<string.h>
+
+1392220051 /home/zair/Documents/Tp15/Exercice1/fonction.h
+
+1392385759 source:/home/zair/Documents/Tp15/Exercice1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+

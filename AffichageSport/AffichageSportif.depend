@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1412243212 source:/home/eleve/Documents/AffichageSportif/Score.cpp
+	"Score.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412240385 /home/eleve/Documents/AffichageSportif/Score.h
+
+1412243179 source:/home/eleve/Documents/AffichageSportif/main.cpp
+	<iostream>
+	"Score.h"
+	"Rugby.h"
+	"Foot.h"
+	"Basket.h"
+
+1412241926 /home/eleve/Documents/AffichageSportif/Rugby.h
+	"Score.h"
+
+1412241932 source:/home/eleve/Documents/AffichageSportif/Rugby.cpp
+	"Rugby.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412243000 source:/home/eleve/Documents/AffichageSportif/Basket.cpp
+	"Basket.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412242983 /home/eleve/Documents/AffichageSportif/Basket.h
+	"Score.h"
+
+1412242983 source:/home/eleve/Documents/AffichageSportif/Foot.cpp
+	"Foot.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+
+1412242983 /home/eleve/Documents/AffichageSportif/Foot.h
+	"Score.h"
+

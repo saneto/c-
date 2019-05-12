@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1415278908 source:c:\users\eleve\desktop\tpvecteur\vecteur\main.cpp
+	<iostream>
+	"Vecteur.h"
+
+1415278888 c:\users\eleve\desktop\tpvecteur\vecteur\vecteur.h
+	<stdio.h>
+	<iostream>
+	<vector>
+

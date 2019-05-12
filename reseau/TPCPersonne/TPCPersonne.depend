@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1411051549 source:/home/eleve/Documents/TPCPersonne/main.cpp
+	<iostream>
+	"CPersonne.h"
+	<string.h>
+	<iomanip>
+	"Fichier.h"
+
+1411051121 source:/home/eleve/Documents/TPCPersonne/CPersonne.cpp
+	<iostream>
+	"CPersonne.h"
+	<string.h>
+	<fstream>
+
+1411031204 /home/eleve/Documents/TPCPersonne/CPersonne.h
+
+1411051340 /home/eleve/Documents/TPCPersonne/Fichier.h
+
+1411051340 source:/home/eleve/Documents/TPCPersonne/Fichier.cpp
+	<iostream>
+	"Fichier.h"
+	<string.h>
+	<fstream>
+
+1411655254 source:/home/eleve/TPCPersonne/CPersonne.cpp
+	<iostream>
+	"CPersonne.h"
+	<string.h>
+	<fstream>
+
+1411644710 /home/eleve/TPCPersonne/CPersonne.h
+
+1411051340 source:/home/eleve/TPCPersonne/Fichier.cpp
+	<iostream>
+	"Fichier.h"
+	<string.h>
+	<fstream>
+
+1411051340 /home/eleve/TPCPersonne/Fichier.h
+
+1412238508 source:/home/eleve/TPCPersonne/main.cpp
+	<iostream>
+	"CPersonne.h"
+	<string.h>
+	<iomanip>
+	"Fichier.h"
+	"Profile.h"
+
+1411643972 /home/eleve/TPCPersonne/Profile.h
+	"CPersonne.h"
+
+1411655406 source:/home/eleve/TPCPersonne/Profile.cpp
+	<iostream>
+	"Profile.h"
+	<string.h>
+	<fstream>
+

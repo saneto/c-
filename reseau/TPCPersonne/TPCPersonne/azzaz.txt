@@ -1,0 +1,2 @@
+Nom = [18~qqsd , Age = 1 , Poids = 1.00 , Taille = 2.00 , IMC = 0.2500 prenom = 4 mail = tg photo = 55 
+

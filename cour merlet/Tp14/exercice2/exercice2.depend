@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1391009253 source:/home/zair/Documents/Tp14/exercice2/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"cara.h"
+
+1391007353 source:/home/zair/Documents/Tp14/exercice2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cara.h"
+
+1391007754 /home/zair/Documents/Tp14/exercice2/cara.h
+

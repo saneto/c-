@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1387536038 source:/home/zair/Documents/Tp12/exercice2/main.cpp
+	<iostream>
+	"point.h"
+	<string.h>
+
+1387536030 /home/zair/Documents/Tp12/exercice2/point.h
+

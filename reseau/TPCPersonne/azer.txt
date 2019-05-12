@@ -1,0 +1,4 @@
+Nom = aze , Age = 1 , Poids = 1.00 , Taille = 95.00 , IMC = 0.0001 prenom = az mail = az photo = az 
+
+Nom = az , Age = 0 , Poids = 1.00 , Taille = 95.00 , IMC = 0.0001 prenom = az mail = az photo = az 
+
